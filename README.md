@@ -98,7 +98,13 @@
           <a href="https://github.com/RinggaDev/Sevenary-Farewell-Web">
             <img src="https://github.com/user-attachments/assets/0014e043-752c-45ea-83a6-f570dd91c2f8" width="400" alt="Project 1"/>
           </a>
-          <br>
+          <a href="https://github.com/RinggaDev/Sevenary-Farewell-Web">
+            <img src="https://github.com/user-attachments/assets/f4c5f5f0-52e4-4043-9533-b1875105b773" width="400" alt="Project 1"/>
+          </a>
+          <a href="https://github.com/RinggaDev/Sevenary-Farewell-Web">
+            <img src="https://github.com/user-attachments/assets/9ec8654f-3c9a-45f0-9644-83759aeff30e" width="400" alt="Project 1"/>
+          </a>
+          <br> 
           <br>
           <p align="center">
             <a href="https://github.com/RinggaDev/Sevenary-Farewell-Web">
@@ -111,7 +117,7 @@
           <p><strong>Tech:</strong> Vue, Typescript, GSAP</p>
           <p>A farewell web application dedicated to the Sevenary Generation.</p>
         </p>
-      </td>
+      </td> 
       <td width="50%">
         <h3 align="center">PokeWiki-Flutter</h3>
         <p align="center">
