@@ -19,8 +19,6 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
-
 - 🔭 I'm currently working on **ProduksiAI**
 - 🌱 I'm currently learning **Rust & Typescript**
 - 👯 I'm looking to collaborate on **Light LLM**
