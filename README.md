@@ -77,11 +77,11 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/your-username/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ringgadev&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9" alt="Project 1" />
+  <a href="https://github.com/RinggaDev/Sevenary-Farewell-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RinggaDev&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9" alt="Project 1" />
   </a>
-  <a href="https://github.com/your-username/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ringgadev&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9" alt="Project 2" />
+  <a href="hhttps://github.com/RinggaDev/PokeWiki-DynamoDev-Ringga9d">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RinggDev&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9" alt="Project 2" />
   </a>
 </div>
 
