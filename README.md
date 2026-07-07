@@ -60,8 +60,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinggaDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinggaDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=3B82F6 "width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RinggaDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA660&icon_color=4DA660&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinggaDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=4DA660&ring=4DA660&fire=4DA660&currStreakLabel=4DA660" width="48%" />
 </div>
 
 ---
@@ -69,7 +69,7 @@
 ## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinggaDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA660&text_color=C9D1D9" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinggaDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA660&text_color=C9D1D9" width="40%" />
 </div>
 
 ---
