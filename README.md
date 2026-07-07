@@ -120,6 +120,38 @@
 
 ---
 
+## 🎯 Fun Zone
+
+<div align="center">
+  
+  <!-- Dev Joke -->
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=0D1117&textColor=4DA660" alt="Jokes Card" width="45%" />
+  
+  &nbsp;&nbsp;&nbsp;
+  
+  <!-- Random Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quoteColor=4DA660" alt="Random Dev Quote" width="45%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RinggaDev&theme=discord&no-frame=true&row=1&column=7&margin-w=15&title_color=4DA660" alt="GitHub Trophies" />
+</div>
+
+---
+
+## ⚡ Quick Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,flutter,react,nextjs,vue,tailwind,supabase,firebase,redis,git,github,docker&perline=8&theme=dark" alt="Skills" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DA660,100:2D8A4E&height=100&section=footer" alt="footer" />
 </div>
