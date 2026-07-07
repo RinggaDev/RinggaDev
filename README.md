@@ -1,18 +1,18 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=Hi%20there,%20I'm%20[Your%20Name]%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=Hi%20there,%20I'm%20Ringga%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;Artificial+Intelligence+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ringgadev&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
 ---
@@ -21,13 +21,13 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **[Project Type]**
-- 🤝 I'm looking for help with **[Specific Need]**
+- 🔭 I'm currently working on **ProduksiAI**
+- 🌱 I'm currently learning **Rust & Typescript**
+- 👯 I'm looking to collaborate on **Light LLM**
+- 🤝 I'm looking for help with **Artificial Intelligence**
 - 💬 Ask me about **JavaScript, React, Node.js, Python**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 📫 How to reach me: **dhabithztringgana@gmail.com**
+- ⚡ Fun fact: **I am a Student with an interest in AI; I have already completed an AI project at a national hackathon**
 
 ---
 
