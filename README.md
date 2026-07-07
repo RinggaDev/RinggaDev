@@ -76,15 +76,54 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/RinggaDev/Sevenary-Farewell-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RinggaDev&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9" alt="Project 1" />
-  </a>
-  <a href="hhttps://github.com/RinggaDev/PokeWiki-DynamoDev-Ringga9d">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RinggDev&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9" alt="Project 2" />
-  </a>
-</div>
+## 🏆 Featured Projects
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Sevenary-Farewell-Web</h3>
+        <p align="center">
+          <a href="https://github.com/RinggaDev/Sevenary-Farewell-Web">
+            <img src="[https://raw.githubusercontent.com/JhonDoe/project-1/main/screenshot.png](https://private-user-images.githubusercontent.com/149128191/618215909-0014e043-752c-45ea-83a6-f570dd91c2f8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM0MzAyNTEsIm5iZiI6MTc4MzQyOTk1MSwicGF0aCI6Ii8xNDkxMjgxOTEvNjE4MjE1OTA5LTAwMTRlMDQzLTc1MmMtNDVlYS04M2E2LWY1NzBkZDkxYzJmOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcwN1QxMzEyMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MDVjYjViNDcwMmM2NzcyZmFhOGI5ZjdmNTkwNTMyNGMyOTExNTIyNWI0NjJkYTNhMzQ2MjdiOGYyMjg4MmNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.OSId8Tjp_ojWkaPITtt6VFiYn810JW3h_VXXzD9lH74)" width="400" alt="Project 1"/>
+          </a>
+          <br>
+          <br>
+          <p align="center">
+            <a href="https://github.com/RinggaDev/Sevenary-Farewell-Web">
+              <img src="https://img.shields.io/badge/Code-4DA660?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="https://sevenary-farewell-web.vercel.app/">
+              <img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>Tech:</strong> Vue, Typescript, GSAP</p>
+          <p>A farewell web application dedicated to the Sevenary Generation.</p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">PokeWiki-Flutter</h3>
+        <p align="center">
+          <a href="https://github.com/RinggaDev/PokeWiki-DynamoDev-Ringga9d">
+            <img src="https://raw.githubusercontent.com/JhonDoe/project-2/main/screenshot.png" width="400" alt="Project 2"/>
+          </a>
+          <br>
+          <br>
+          <p align="center">
+            <a href="https://github.com/RinggaDev/PokeWiki-DynamoDev-Ringga9d">
+              <img src="https://img.shields.io/badge/Code-4DA660?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="-">
+              <img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>Tech:</strong> Flutter and Dart Pure Vanilla</p>
+          <p>Aplikasi ini dirancang untuk memberikan pengalaman pencarian data Pokémon yang cepat dan responsif tanpa memerlukan koneksi internet sama sekali.</p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🤝 Connect With Me
