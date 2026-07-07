@@ -69,23 +69,14 @@
 ## 📊 Most Used Languages
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=4DA660)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=4DA660)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=4DA660)
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=4DA660)
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff9900&successColor=4DA660)
-
+  <img src="https://img.shields.io/badge/Python-80%25-4DA660?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+  <img src="https://img.shields.io/badge/TypeScript-65%25-4DA660?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-55%25-4DA660?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
+  <br>
+  <img src="https://img.shields.io/badge/Dart-45%25-4DA660?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2" />
+  <img src="https://img.shields.io/badge/Flutter-40%25-4DA660?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B" />
 </div>
+
 ---
 ## 🏆 Featured Projects
 
