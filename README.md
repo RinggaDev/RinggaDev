@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=Hi%20there,%20I'm%20Ringga%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DA660,100:2D8A4E&height=200&section=header&text=Hi%20there,%20I'm%20Ringga%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;Artificial+Intelligence+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4DA660&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;Artificial+Intelligence+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </div>
 
@@ -115,11 +115,11 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ringgadev&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=C9D1D9&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ringgadev&theme=github-compact&bg_color=0D1117&color=4DA660&line=4DA660&point=4DA660&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DA660,100:2D8A4E&height=100&section=footer" alt="footer" />
 </div>
