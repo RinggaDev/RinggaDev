@@ -66,6 +66,14 @@
 
 ---
 
+## 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringgadev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA660&text_color=C9D1D9" alt="Top Languages" width="40%" />
+</div>
+
+---
+
 ## 🏆 Featured Projects
 
 <div align="center">
