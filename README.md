@@ -18,7 +18,7 @@
 ## 🌍 Where Are You From?
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/JhonDoe/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/RinggaDev/count.svg" alt="Visitor Count" />
 </div>
 ---
 
