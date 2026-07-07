@@ -136,14 +136,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RinggaDev&theme=discord&no-frame=true&row=1&column=7&margin-w=15&title_color=4DA660" alt="GitHub Trophies" />
-</div>
-
----
-
 ## ⚡ Quick Skills
 
 <div align="center">
