@@ -105,7 +105,7 @@
               <img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
             </a>
           </p>
-          <p><strong>Tech:</strong> Vue, Typescript, GSAP</p>
+          <p><strong>Tech:</strong> Vite, Typescript, GSAP</p>
           <p>A farewell web application dedicated to the Sevenary Generation.</p>
         </p>
       </td> 
