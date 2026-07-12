@@ -15,8 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=ringgadev&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
----
-
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **MakerFlow**
