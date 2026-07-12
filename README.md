@@ -187,8 +187,6 @@
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,flutter,react,nextjs,vue,tailwind,supabase,firebase,redis,git,github,docker&perline=8&theme=dark" alt="Skills" />
 </div>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DA660,100:2D8A4E&height=100&section=footer" alt="footer" />
 </div>
