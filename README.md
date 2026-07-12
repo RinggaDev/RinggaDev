@@ -165,7 +165,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ringgadev&theme=github-compact&bg_color=0D1117&color=4DA660&line=4DA660&point=4DA660&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
 
 ## 🎯 Fun Zone
 
@@ -181,7 +180,6 @@
 
 </div>
 
----
 
 ## ⚡ Quick Skills
 
