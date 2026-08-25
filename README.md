@@ -21,7 +21,7 @@
 - 🤝 I'm looking for help with **Artificial Intelligence**
 - 💬 Ask me about **JavaScript, React, Node.js, Python**
 - 📫 How to reach me: **dhabithztringgana@gmail.com**
-- ⚡ Fun fact: **I am a Student with an interest in AI; I have already completed an AI project at a national Hackathon**
+- ⚡ Fun fact: **I am a Student with an interest in AI; I have already completed an AI project at a National Hackathon**
 
 ---
 
