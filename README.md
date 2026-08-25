@@ -52,15 +52,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinggaDev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8FBC8F&icon_color=3CB371&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinggaDev&theme=dark&hide_border=true&background=0D1117&stroke=8FBC8F&ring=3CB371&fire=2E8B57&currStreakLabel=8FBC8F&sideLabels=3CB371" alt="GitHub Streak" width="48%" />
-</div>
-
----
-
 ## 📊 Most Used Languages
 
 <div align="center">
