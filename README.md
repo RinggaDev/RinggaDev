@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **MakerFlow**
+- 🔭 I'm currently working on **Karsa App**
 - 🌱 I'm currently learning **Rust & Typescript**
 - 👯 I'm looking to collaborate on **Light LLM**
 - 🤝 I'm looking for help with **Artificial Intelligence**
